@@ -16,10 +16,12 @@ Here are the technologies used in this project.
  
 1.0.0.0
 
-![Tela](https://github.com/Luizrebelatto/Calculadora-Simples/blob/master/TelaCalculadora.png)
- 
+## Screens
+
+<center><img src="https://github.com/Luizrebelatto/Calculadora-Simples/blob/master/TelaCalculadora.png" width="290" height="712" /></center>
+
  
 
  
-Luiz Gabriel Rebelatto Bianchi: @Luizrebelatto (https://github.com/Luizrebelatto)
+* **Luiz Gabriel Rebelatto Bianchi**: @Luizrebelatto (https://github.com/Luizrebelatto)
  

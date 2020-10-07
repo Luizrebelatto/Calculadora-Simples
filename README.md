@@ -15,6 +15,8 @@ Here are the technologies used in this project.
 ## Versioning
  
 1.0.0.0
+
+![Tela](https://github.com/Luizrebelatto/Calculadora-Simples/blob/master/TelaCalculadora.png)
  
  
 

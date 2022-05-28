@@ -1,5 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
-import React,{useState, useEffect} from 'react';
+import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 
 export default function Botao(props){
@@ -15,7 +14,7 @@ export default function Botao(props){
 
 const styles=StyleSheet.create({
         view:{
-                backgroundColor:'black',
+                backgroundColor:'#000000',
                 borderColor:'white',
                 borderWidth:1,width:'33.3%',
                 height:'25%',
@@ -27,6 +26,6 @@ const styles=StyleSheet.create({
                 alignItems:'center',
         },
         text:{
-                fontSize:24,color:'white' 
+                fontSize:24,color:'#FFFFFF' 
         }
 })

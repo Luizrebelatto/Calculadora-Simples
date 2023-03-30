@@ -12,7 +12,7 @@ Here are the technologies used in this project.
  
 * Github
 
-[Windows](/1-pre-requisitos/windows.md)
+[Windows](https://github.com/Luizrebelatto/BeeCrowd_Challenges)
   
 ## Versioning
  

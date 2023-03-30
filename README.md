@@ -11,6 +11,8 @@ Here are the technologies used in this project.
 ## Services Used
  
 * Github
+
+[Windows](/1-pre-requisitos/windows.md)
   
 ## Versioning
  
